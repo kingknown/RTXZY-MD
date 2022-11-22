@@ -220,3 +220,7 @@ For Help | Sepuh |
 [Adiwajshing](https://github.com/adiwajshing) | [caf](https://github.com/CAF-ID)
 Owner of Baileys | Sepuh |
 
+## ```Recode By ```
+[![ImYanXiao](https://github.com/4ksanzz.png?size=70)](https://github.com/4ksanzz)
+
+
