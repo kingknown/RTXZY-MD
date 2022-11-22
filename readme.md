@@ -7,10 +7,10 @@
 
 > **Warning**: 
 > Telah update ke multi auth !
-> Penjelasan sesi [`Here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
+> Penjelasan sesi [`Here`](https://github.com/4ksanzz/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 
 - Ubah nomor owner Bot Di Sini
-[`Ubah Owner`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
+[`Ubah Owner`](https://github.com/4ksanzz/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
 - Sc ini bisa ambil sesi di module di bawah ini
 - [`Visite Module`](https://replit.com/@tioclkp02/Sessions-Multi-Auth?lite=1&outputonly=1)
 - [`Fork & Get sessions`](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
@@ -49,7 +49,7 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/RTXZY-MD
+> git clone  https://github.com/4ksanzz/RTXZY-MD
 > cd RTXZY-MD
 > npm i
 > node index.js
@@ -81,7 +81,7 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
+git clone https://github.com/4ksanzz/RTXZY-MD
 cd RTXZY-MD
 npm i
 npm start
